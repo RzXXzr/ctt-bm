@@ -1748,6 +1748,577 @@ Menanyakan riwayat obat yang dikonsumsi pasien adalah **KRUSIAL** karena:
 4. Menentukan perlu tidaknya modifikasi perawatan
 5. Menentukan perlu tidaknya konsultasi dengan dokter spesialis
 
+---
+
+# BAB 6: ANAMNESA RIWAYAT PENYAKIT & PENANGANAN PASIEN MEDICALLY COMPROMISED
+
+## 6.1 Prinsip Anamnesa Riwayat Penyakit
+
+### Teknik Anamnesa yang Baik
+
+**Prinsip GATHER:**
+- **G**reet - Sapa pasien dengan ramah
+- **A**sk - Tanyakan dengan open-ended question
+- **T**ell - Jelaskan tujuan pertanyaan
+- **H**elp - Bantu pasien mengingat
+- **E**xplain - Jelaskan relevansi dengan perawatan
+- **R**ecord - Catat dengan lengkap
+
+### Pertanyaan Pembuka Umum
+
+```
+PERTANYAAN SCREENING AWAL:
+
+"Sebelum kita mulai perawatan, saya perlu menanyakan beberapa hal
+tentang kesehatan Bapak/Ibu secara umum untuk keamanan tindakan."
+
+1. "Apakah pernah dirawat di rumah sakit? Untuk apa?"
+2. "Apakah saat ini sedang dalam perawatan dokter? Dokter apa?"
+3. "Apakah pernah didiagnosis penyakit tertentu?"
+4. "Apakah rutin minum obat? Obat apa saja?"
+5. "Apakah pernah ada reaksi alergi terhadap obat atau makanan?"
+6. "Apakah pernah ada masalah saat cabut gigi atau operasi sebelumnya?"
+```
+
+---
+
+## 6.2 Anamnesa Riwayat Penyakit Jantung
+
+### Pertanyaan Spesifik:
+
+```
+RIWAYAT JANTUNG - PERTANYAAN WAJIB:
+
+1. "Apakah Bapak/Ibu pernah didiagnosis sakit jantung?"
+   
+2. Jika YA, tanyakan lebih lanjut:
+   ├── "Sakit jantung apa? (koroner/bocor/lemah jantung/irama tidak teratur)"
+   ├── "Kapan pertama kali didiagnosis?"
+   ├── "Apakah pernah serangan jantung? Kapan terakhir?"
+   ├── "Apakah pernah pasang ring/stent?" → Kapan? Berapa?
+   ├── "Apakah pernah operasi bypass?"
+   ├── "Apakah ada katup jantung buatan?"
+   ├── "Apakah ada alat pacu jantung (pacemaker)?"
+   └── "Siapa dokter jantung yang merawat?"
+
+3. "Apakah sering merasakan:"
+   ├── "Nyeri dada? Terutama saat aktivitas?"
+   ├── "Sesak napas saat berbaring atau aktivitas ringan?"
+   ├── "Jantung berdebar-debar?"
+   └── "Kaki bengkak?"
+
+4. "Apakah bisa naik tangga 2 lantai tanpa berhenti karena sesak/nyeri dada?"
+   → Ini menilai functional capacity (PENTING!)
+
+5. "Obat jantung apa yang diminum?" (Lihat BAB 5)
+```
+
+### Klasifikasi Risiko Jantung (ASA):
+
+| Kelas | Deskripsi | Contoh | Tindakan |
+|-------|-----------|--------|----------|
+| ASA I | Sehat | Tidak ada penyakit | Normal |
+| ASA II | Penyakit ringan terkontrol | Hipertensi terkontrol, DM terkontrol | Modifikasi minor |
+| ASA III | Penyakit berat terkontrol | Angina stabil, post MI >6 bulan | Modifikasi signifikan |
+| ASA IV | Penyakit berat tidak terkontrol | Angina tidak stabil, MI <6 bulan | **TUNDA, Rujuk** |
+| ASA V | Moribund | - | **KONTRAINDIKASI** |
+
+### Penanganan Pasien Jantung vs Normal:
+
+| Aspek | Pasien Normal | Pasien Jantung |
+|-------|---------------|----------------|
+| **Penjadwalan** | Kapan saja | Pagi hari, setelah istirahat cukup |
+| **Konsultasi** | Tidak perlu | Surat keterangan dari kardiolog jika ASA III-IV |
+| **Monitor TD** | Sebelum tindakan | Sebelum, selama (jika lama), dan setelah |
+| **Anestesi lokal** | Standar | **Batasi epinefrin** (max 0.04 mg = 2 cartridge 1:100.000) |
+| **Vasokonstriktor** | Bebas | Hindari pada aritmia berat, hipertensi tidak terkontrol |
+| **Durasi tindakan** | Bebas | **<30 menit** per sesi, appointment pendek |
+| **Stres & kecemasan** | Edukasi | **WAJIB** kontrol kecemasan, pertimbangkan anxiolytic |
+| **Posisi dental chair** | Bebas | **Semi-supine 45°**, jangan terlalu rebah |
+| **Profilaksis AB** | Tidak perlu | **WAJIB** jika: katup prostetik, riwayat endokarditis, penyakit jantung kongenital sianotik |
+| **Emergency kit** | Standar | Siapkan: NTG sublingual, Aspirin, Oksigen |
+| **Antikoagulan** | - | Cek INR, JANGAN stop tanpa konsultasi |
+
+### Kondisi yang Memerlukan Penundaan:
+
+```
+⛔ TUNDA TINDAKAN ELEKTIF JIKA:
+
+- MI (serangan jantung) < 6 bulan
+- Angina tidak stabil
+- Gagal jantung dekompensata (sesak berat, edema)
+- Aritmia tidak terkontrol
+- TD > 180/110 mmHg
+- Pasang stent < 1 bulan (bare metal) atau < 6-12 bulan (drug-eluting)
+- Operasi jantung < 6 bulan
+```
+
+---
+
+## 6.3 Anamnesa Riwayat Diabetes Mellitus
+
+### Pertanyaan Spesifik:
+
+```
+RIWAYAT DIABETES - PERTANYAAN WAJIB:
+
+1. "Apakah Bapak/Ibu menderita kencing manis/diabetes?"
+
+2. Jika YA:
+   ├── "Tipe berapa? (Tipe 1 / Tipe 2)" 
+   │   → Tipe 1 = tergantung insulin sejak muda
+   │   → Tipe 2 = biasanya dewasa, bisa obat/insulin
+   ├── "Sudah berapa lama?"
+   ├── "Bagaimana kontrolnya? Rutin cek gula darah?"
+   ├── "Berapa biasanya kadar gula darahnya?"
+   ├── "Kapan terakhir cek HbA1c? Berapa hasilnya?"
+   └── "Siapa dokter yang merawat?"
+
+3. "Obat diabetes apa yang diminum?"
+   ├── "Minum obat atau suntik insulin?"
+   ├── "Nama obatnya apa?"
+   └── "Jam berapa biasanya minum obat/suntik insulin?"
+
+4. "Apakah pernah mengalami:"
+   ├── "Gula darah terlalu rendah (hipoglikemia)?" → keringat dingin, gemetar, lemas
+   ├── "Gula darah sangat tinggi sampai dirawat?"
+   ├── "Luka yang sulit sembuh?"
+   └── "Komplikasi diabetes?" (mata, ginjal, jantung, kaki)
+
+5. "Apakah hari ini sudah makan dan minum obat diabetes?"
+   → SANGAT PENTING untuk mencegah hipoglikemia!
+```
+
+### Interpretasi Kontrol Glikemik:
+
+| Parameter | Baik | Sedang | Buruk |
+|-----------|------|--------|-------|
+| GDS (mg/dL) | <200 | 200-300 | >300 |
+| GDP (mg/dL) | <130 | 130-180 | >180 |
+| HbA1c (%) | <7 | 7-9 | >9 |
+
+### Penanganan Pasien Diabetes vs Normal:
+
+| Aspek | Pasien Normal | Pasien Diabetes |
+|-------|---------------|-----------------|
+| **Penjadwalan** | Kapan saja | **PAGI HARI** setelah sarapan dan minum obat |
+| **Cek GDS** | Tidak perlu | **WAJIB** sebelum tindakan |
+| **Target GDS** | - | 100-200 mg/dL ideal untuk tindakan |
+| **GDS >300 mg/dL** | - | **TUNDA**, rujuk untuk kontrol |
+| **GDS <70 mg/dL** | - | **TUNDA**, berikan glukosa dulu |
+| **Pastikan makan** | Tidak perlu | **WAJIB** sudah makan sebelum datang |
+| **Durasi tindakan** | Bebas | Jangan terlalu lama, hindari skip makan |
+| **Risiko infeksi** | Normal | **MENINGKAT** - penyembuhan lambat |
+| **Antibiotik** | Sesuai indikasi | **Lebih agresif** memberikan antibiotik |
+| **Instruksi pasca** | Standar | Edukasi penyembuhan lebih lambat |
+| **Follow-up** | Standar | **Lebih ketat**, pantau tanda infeksi |
+| **Emergency kit** | Standar | Siapkan: **Glukosa oral/tablet, jus manis** |
+
+### Tanda Hipoglikemia yang Harus Dikenali:
+
+```
+🚨 TANDA HIPOGLIKEMIA (GDS <70 mg/dL):
+
+Ringan-Sedang:
+├── Keringat dingin (berkeringat tapi dingin)
+├── Tremor/gemetar
+├── Jantung berdebar
+├── Lapar mendadak
+├── Cemas, gelisah
+└── Pucat
+
+Berat:
+├── Bingung, disorientasi
+├── Sulit bicara
+├── Kejang
+└── Penurunan kesadaran
+
+⚡ TINDAKAN SEGERA:
+1. Hentikan tindakan dental
+2. Berikan gula: 15-20 gram karbohidrat cepat
+   - 3-4 tablet glukosa, ATAU
+   - 150 mL jus buah/softdrink (bukan diet), ATAU
+   - 1 sendok makan gula/madu
+3. Tunggu 15 menit, cek ulang GDS
+4. Jika tidak membaik atau tidak sadar → Panggil bantuan, pertimbangkan glukosa IV
+```
+
+---
+
+## 6.4 Anamnesa Riwayat Hepatitis
+
+### Pertanyaan Spesifik:
+
+```
+RIWAYAT HEPATITIS - PERTANYAAN WAJIB:
+
+1. "Apakah Bapak/Ibu pernah menderita sakit kuning/hepatitis?"
+
+2. Jika YA:
+   ├── "Hepatitis apa? (A/B/C)" 
+   │   → Hep A: biasanya sembuh total
+   │   → Hep B & C: bisa menjadi kronik, MENULAR via darah
+   ├── "Kapan didiagnosis?"
+   ├── "Sudah sembuh atau masih dalam pengobatan?"
+   ├── "Apakah pernah cek lab terakhir?" (HBsAg, Anti-HCV, fungsi hati)
+   └── "Apakah sedang minum obat untuk hepatitis?"
+
+3. "Apakah pernah mengalami:"
+   ├── "Mata/kulit kuning?"
+   ├── "Perut membesar (asites)?"
+   ├── "Muntah darah atau BAB hitam?"
+   └── "Didiagnosis sirosis hati?"
+
+4. "Apakah ada keluarga yang menderita hepatitis B?"
+   → Hepatitis B bisa menular dalam keluarga
+```
+
+### Klasifikasi Hepatitis dan Status:
+
+| Tipe | Penularan | Status Infeksius | Marker |
+|------|-----------|------------------|--------|
+| **Hepatitis A** | Fecal-oral | Tidak kronik | Anti-HAV IgM (akut) |
+| **Hepatitis B** | Darah, cairan tubuh | **HBsAg (+) = INFEKSIUS** | HBsAg, Anti-HBs, HBeAg |
+| **Hepatitis C** | Darah | **Anti-HCV (+) & RNA (+) = INFEKSIUS** | Anti-HCV, HCV RNA |
+
+### Penanganan Pasien Hepatitis vs Normal:
+
+| Aspek | Pasien Normal | Pasien Hepatitis B/C Aktif |
+|-------|---------------|---------------------------|
+| **Proteksi diri** | Standar | **STRICT Universal Precaution** |
+| **APD** | Sarung tangan, masker | Double gloves, face shield, gown |
+| **Instrumen** | Sterilisasi standar | Sterilisasi ketat, pertimbangkan disposable |
+| **Penjadwalan** | Kapan saja | **Akhir hari** (waktu untuk dekontaminasi) |
+| **Cek lab** | Tidak perlu | Cek fungsi hati (SGOT/SGPT), PT/INR jika sirosis |
+| **Risiko perdarahan** | Normal | **MENINGKAT** jika sirosis (cek PT/INR) |
+| **Metabolisme obat** | Normal | **TERGANGGU** - hati-hati dosis obat |
+| **Antibiotik** | Standar | Hindari obat hepatotoksik (erythromycin, amox-clav dosis tinggi) |
+| **Analgesik** | Bebas | **Hindari/batasi Paracetamol** (<2g/hari), hindari NSAID jika sirosis |
+| **Anestesi lokal** | Standar | Hati-hati dosis berlebih (metabolisme lambat) |
+| **Post-exposure** | - | Jika tertusuk jarum: **Lapor, tes, PEP untuk Hep B** |
+
+### Protokol Jika Tertusuk Jarum dari Pasien Hepatitis B:
+
+```
+🚨 POST-EXPOSURE PROPHYLAXIS (PEP) HEPATITIS B:
+
+1. Segera cuci luka dengan air mengalir dan sabun
+2. Jangan diperas/ditekan berlebihan
+3. Desinfeksi dengan alkohol/povidone iodine
+4. Lapor ke bagian K3/Infeksi RS
+5. Cek status vaksin Anda:
+   
+   Jika SUDAH divaksin & Anti-HBs >10:
+   └── Tidak perlu tindakan tambahan, tetap monitor
+
+   Jika BELUM divaksin atau Anti-HBs <10:
+   └── Berikan HBIG + Vaksin Hep B dalam 24 jam
+
+6. Cek lab awal dan follow-up (1, 3, 6 bulan)
+```
+
+---
+
+## 6.5 Anamnesa Riwayat Herpes (HSV)
+
+### Pertanyaan Spesifik:
+
+```
+RIWAYAT HERPES - PERTANYAAN WAJIB:
+
+1. "Apakah pernah mengalami sariawan yang berulang di tempat yang sama?"
+
+2. "Apakah pernah muncul luka seperti lepuh/gelembung kecil bergerombol di:"
+   ├── "Bibir?" → Herpes labialis (cold sore)
+   ├── "Dalam mulut?" → Herpes intraoral
+   └── "Area kelamin?" → Herpes genitalis
+
+3. Jika YA:
+   ├── "Seberapa sering kambuh?"
+   ├── "Apa yang biasanya memicu?" (stres, demam, sinar matahari, menstruasi)
+   ├── "Kapan terakhir kambuh?"
+   ├── "Apakah SEKARANG sedang ada luka aktif?"
+   └── "Apakah pernah minum obat antivirus (Acyclovir)?"
+```
+
+### Membedakan Herpes vs Stomatitis Aftosa (Sariawan Biasa):
+
+| Ciri | Herpes (HSV) | Stomatitis Aftosa (RAS) |
+|------|--------------|-------------------------|
+| **Lokasi** | Bibir, palatum durum, gingiva cekat | Mukosa bukal, labial, lidah, palatum mole |
+| **Penampilan awal** | Vesikel (gelembung) berkelompok | Langsung ulser |
+| **Tepi** | Irregular, polisiklik | Bulat/oval, tepi jelas |
+| **Menular** | **YA** (saat ada lesi aktif) | TIDAK |
+| **Pemicu** | Stres, demam, trauma, UV | Stres, makanan tertentu |
+| **Prodromal** | Gatal, terbakar, kesemutan | Tidak ada |
+| **Durasi** | 7-14 hari | 7-14 hari |
+
+### Penanganan Pasien Herpes vs Normal:
+
+| Aspek | Pasien Normal | Pasien Herpes AKTIF (ada lesi) |
+|-------|---------------|-------------------------------|
+| **Tindakan elektif** | Lanjutkan | **TUNDA** sampai lesi sembuh |
+| **Alasan** | - | Risiko autoinokulasi, penyebaran, herpetic whitlow pada operator |
+| **Risiko pada operator** | Minimal | **Herpetic whitlow** (herpes di jari) jika kontak |
+| **Proteksi** | Standar | Double gloves, hindari kontak langsung |
+| **Rekurensi post-tindakan** | - | Prosedur dental bisa memicu kekambuhan |
+| **Profilaksis antivirus** | Tidak perlu | **Pertimbangkan** jika riwayat sering kambuh |
+| **Jika HARUS tindakan darurat** | - | APD lengkap, antivirus profilaksis |
+
+### Profilaksis Antivirus untuk Pasien dengan Riwayat Herpes:
+
+```
+PROFILAKSIS HERPES UNTUK PROSEDUR DENTAL:
+
+Indikasi:
+- Pasien dengan riwayat herpes labialis rekuren
+- Akan menjalani prosedur yang traumatik (bedah, scaling ekstensif)
+
+Regimen:
+- Valacyclovir 500 mg 2x sehari
+  ATAU
+- Acyclovir 400 mg 3x sehari
+
+Mulai: 1 hari sebelum prosedur
+Durasi: 3-5 hari (1 hari sebelum + 2-4 hari setelah)
+```
+
+---
+
+## 6.6 Anamnesa Riwayat HIV/AIDS
+
+### Pertanyaan Spesifik:
+
+```
+RIWAYAT HIV - PERTANYAAN (dengan SENSITIF):
+
+⚠️ PENTING: Tanyakan dengan cara yang tidak menghakimi!
+
+1. Pendekatan umum:
+   "Untuk keamanan perawatan, saya perlu menanyakan beberapa hal 
+   yang mungkin sensitif. Semua informasi akan dijaga kerahasiaannya."
+
+2. "Apakah pernah melakukan tes HIV?"
+   
+3. Jika mau menjawab & positif:
+   ├── "Kapan pertama didiagnosis?"
+   ├── "Apakah sedang dalam pengobatan ARV?"
+   ├── "Obat ARV apa yang diminum?"
+   ├── "Kapan terakhir cek CD4 dan viral load? Berapa hasilnya?"
+   ├── "Apakah ada infeksi oportunistik yang pernah dialami?"
+   └── "Siapa dokter yang merawat?"
+
+4. Jika pasien tidak mau menjawab:
+   → Hormati privasi, tetap lakukan UNIVERSAL PRECAUTION untuk SEMUA pasien
+```
+
+### Interpretasi Status HIV:
+
+| Parameter | Interpretasi | Implikasi Dental |
+|-----------|--------------|------------------|
+| **CD4 >500** | Sistem imun baik | Tindakan seperti normal |
+| **CD4 200-500** | Imunosupresi ringan-sedang | Waspada infeksi, monitoring |
+| **CD4 <200** | AIDS, imunosupresi berat | **Risiko infeksi tinggi**, konsultasi |
+| **Viral load undetectable** | ARV efektif | Risiko transmisi sangat rendah |
+| **Viral load tinggi** | ARV tidak efektif/tidak patuh | Risiko transmisi lebih tinggi |
+
+### Penanganan Pasien HIV vs Normal:
+
+| Aspek | Pasien Normal | Pasien HIV (+) |
+|-------|---------------|----------------|
+| **Universal Precaution** | YA | **YA - SAMA untuk semua pasien!** |
+| **Perlakuan khusus** | - | **TIDAK ADA diskriminasi** |
+| **Konsultasi** | Tidak perlu | Jika CD4 <200, konsultasi internist |
+| **Cek lab** | Tidak perlu | CD4, viral load, darah lengkap jika belum ada |
+| **Antibiotik profilaksis** | Sesuai indikasi | Pertimbangkan jika CD4 <200 |
+| **Risiko infeksi** | Normal | Meningkat seiring penurunan CD4 |
+| **Penyembuhan luka** | Normal | Bisa lebih lambat jika CD4 rendah |
+| **Oral manifestation** | - | Periksa: kandidiasis, hairy leukoplakia, Kaposi sarcoma, periodontitis HIV |
+| **Interaksi obat** | Minimal | **Banyak** dengan ARV (terutama protease inhibitor) |
+| **APD** | Standar | Standar (sama dengan pasien lain) |
+| **Post-exposure** | - | Jika tertusuk: **PEP dalam 72 jam** |
+
+### Manifestasi Oral HIV yang Perlu Dikenali:
+
+```
+MANIFESTASI ORAL HIV/AIDS:
+
+Strongly Associated:
+├── Kandidiasis oral (thrush) - putih, bisa dikerok
+├── Hairy leukoplakia - putih berambut di lateral lidah, tidak bisa dikerok
+├── Kaposi sarcoma - lesi merah-ungu, biasanya di palatum
+├── Non-Hodgkin lymphoma
+└── HIV periodontitis/HIV gingivitis - destruksi cepat
+
+Less Commonly Associated:
+├── Ulserasi aftosa mayor
+├── Necrotizing ulcerative periodontitis (NUP)
+├── Herpes simplex yang parah
+└── Parotid enlargement
+```
+
+### Protokol Post-Exposure Prophylaxis (PEP) HIV:
+
+```
+🚨 JIKA TERTUSUK JARUM DARI PASIEN HIV (+):
+
+1. SEGERA (dalam menit):
+   ├── Cuci luka dengan air mengalir dan sabun (5 menit)
+   ├── JANGAN diperas
+   └── Desinfeksi dengan alkohol 70%
+
+2. DALAM 1-2 JAM:
+   ├── Lapor ke bagian K3/Komite PPI Rumah Sakit
+   ├── Dokumentasi kejadian
+   └── Cek status HIV pasien sumber (jika belum diketahui)
+
+3. DALAM 72 JAM (idealnya <2 jam):
+   ├── Konsultasi dokter untuk PEP
+   ├── Mulai ARV profilaksis (biasanya 3 obat, 28 hari)
+   └── Cek lab baseline (HIV, Hepatitis B, C, fungsi hati, ginjal)
+
+4. FOLLOW-UP:
+   ├── Tes HIV: minggu 6, bulan 3, bulan 6
+   ├── Konseling
+   └── Hindari donor darah selama masa window period
+
+⏰ WAKTU ADALAH KUNCI - PEP paling efektif jika dimulai <2 jam!
+```
+
+---
+
+## 6.7 Tabel Perbandingan Penanganan
+
+### Ringkasan Perbedaan Penanganan:
+
+| Aspek | Normal | Jantung | DM | Hepatitis | Herpes | HIV |
+|-------|--------|---------|----|-----------| -------|-----|
+| **Jadwal** | Bebas | Pagi | Pagi, post-meal | Akhir hari | Tunda jika aktif | Bebas |
+| **Konsultasi** | Tidak | Ya (ASA III+) | Jika GDS >300 | Jika sirosis | Tidak | Jika CD4 <200 |
+| **Cek sebelum** | TD | TD | **GDS** | Fungsi hati, PT | Lesi aktif? | CD4, VL |
+| **Batasi Epi** | Tidak | **Ya** | Tidak | Tidak | Tidak | Tidak |
+| **AB profilaksis** | Tidak | Kondisi tertentu | Lebih agresif | Sesuai | Tidak | Jika CD4 <200 |
+| **Risiko utama** | - | Aritmia, MI | **Hipoglikemia** | Perdarahan, transmisi | Transmisi, autoinokulasi | Infeksi, transmisi |
+| **APD khusus** | Tidak | Tidak | Tidak | **Ya** | Double gloves | Tidak (UP standar) |
+| **Obat dihindari** | - | Epi berlebih | - | Hepatotoksik | - | Interaksi ARV |
+
+---
+
+## 6.8 Checklist Anamnesa Penyakit Sistemik
+
+```
+✅ CHECKLIST ANAMNESA LENGKAP:
+
+KARDIOVASKULAR:
+☐ Riwayat sakit jantung?
+☐ Pernah serangan jantung?
+☐ Pasang ring/stent? Kapan?
+☐ Operasi jantung?
+☐ Alat pacu jantung?
+☐ Darah tinggi? Terkontrol?
+☐ Obat jantung/darah tinggi apa?
+☐ Obat pengencer darah?
+☐ Functional capacity (naik tangga?)
+
+METABOLIK:
+☐ Diabetes? Tipe?
+☐ Kontrol gula bagaimana?
+☐ Obat DM apa? Insulin?
+☐ Pernah hipoglikemia?
+☐ Sudah makan hari ini?
+☐ Sudah minum obat DM?
+☐ Penyakit tiroid?
+
+INFEKSI:
+☐ Riwayat hepatitis? Tipe?
+☐ Status HBsAg/Anti-HCV?
+☐ Riwayat TB?
+☐ Status HIV? (jika bersedia)
+☐ CD4 dan viral load? (jika HIV+)
+
+HEMATOLOGI:
+☐ Gangguan perdarahan?
+☐ Anemia?
+☐ Riwayat transfusi?
+
+LAIN-LAIN:
+☐ Asma/penyakit paru?
+☐ Epilepsi?
+☐ Penyakit ginjal?
+☐ Penyakit hati?
+☐ Kehamilan?
+☐ Alergi obat?
+☐ Pernah masalah dengan anestesi?
+```
+
+---
+
+## 6.9 Kapan Harus TUNDA dan RUJUK?
+
+### Indikasi Penundaan Absolut:
+
+```
+⛔ TUNDA TINDAKAN ELEKTIF & RUJUK:
+
+JANTUNG:
+- TD > 180/110 mmHg
+- Angina tidak stabil / nyeri dada saat istirahat
+- MI < 6 bulan
+- Aritmia tidak terkontrol
+- Gagal jantung dekompensata
+
+DIABETES:
+- GDS > 300 mg/dL
+- GDS < 70 mg/dL (tangani hipoglikemia dulu)
+- Ketoasidosis diabetik
+
+HEPATITIS:
+- Hepatitis akut (ikterik)
+- Sirosis dekompensata (asites, perdarahan)
+- INR > 3.5
+
+HERPES:
+- Lesi aktif (vesikel/ulser) → tunda sampai sembuh
+
+HIV:
+- Infeksi oportunistik aktif
+- CD4 < 200 tanpa konsultasi
+
+UMUM:
+- Demam > 38°C
+- Infeksi akut di tempat lain
+- Kondisi tidak stabil
+```
+
+### Alur Pengambilan Keputusan:
+
+```
+ALUR KEPUTUSAN MEDICALLY COMPROMISED:
+
+                    ┌─────────────────────┐
+                    │  Anamnesa & Cek VS  │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │ Ada penyakit sistemik? │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              │                │                │
+         ┌────▼────┐     ┌─────▼─────┐    ┌────▼────┐
+         │  TIDAK  │     │  YA, tapi │    │  YA, dan│
+         │         │     │ terkontrol│    │  tidak  │
+         │         │     │           │    │terkontrol│
+         └────┬────┘     └─────┬─────┘    └────┬────┘
+              │                │               │
+         ┌────▼────┐     ┌─────▼─────┐    ┌────▼────┐
+         │ Tindakan│     │ Modifikasi│    │  TUNDA  │
+         │  Normal │     │ perawatan │    │  RUJUK  │
+         └─────────┘     └───────────┘    └─────────┘
+```
+
+---
+
 ### Pertanyaan Kunci Anamnesa Obat:
 
 ```
@@ -1760,7 +2331,7 @@ Menanyakan riwayat obat yang dikonsumsi pasien adalah **KRUSIAL** karena:
 
 ---
 
-## 5.2 Klasifikasi Obat dan Implikasi Klinis
+## 6.10 Klasifikasi Obat dan Implikasi Klinis
 
 ### A. OBAT ANTIKOAGULAN & ANTIPLATELET (Pengencer Darah)
 
