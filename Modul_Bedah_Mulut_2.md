@@ -1737,6 +1737,416 @@ Pasien dengan kondisi jantung berisiko tinggi:
 
 ---
 
+# BAB 5: ANAMNESA OBAT PADA PASIEN MEDICALLY COMPROMISED
+
+## 5.1 Pentingnya Anamnesa Riwayat Obat
+
+Menanyakan riwayat obat yang dikonsumsi pasien adalah **KRUSIAL** karena:
+1. Mengidentifikasi penyakit sistemik yang mendasari
+2. Mengantisipasi komplikasi selama dan setelah tindakan
+3. Menghindari interaksi obat
+4. Menentukan perlu tidaknya modifikasi perawatan
+5. Menentukan perlu tidaknya konsultasi dengan dokter spesialis
+
+### Pertanyaan Kunci Anamnesa Obat:
+
+```
+"Apakah Bapak/Ibu sedang mengonsumsi obat-obatan rutin?"
+"Obat apa saja yang diminum setiap hari?"
+"Sudah berapa lama mengonsumsi obat tersebut?"
+"Apakah ada obat pengencer darah?"
+"Apakah ada obat untuk jantung/darah tinggi/kencing manis?"
+```
+
+---
+
+## 5.2 Klasifikasi Obat dan Implikasi Klinis
+
+### A. OBAT ANTIKOAGULAN & ANTIPLATELET (Pengencer Darah)
+
+#### Jika Pasien Mengonsumsi Obat Ini → **RISIKO PERDARAHAN**
+
+| Nama Obat | Nama Dagang | Indikasi/Arti Konsumsi | Implikasi di Kedokteran Gigi |
+|-----------|-------------|------------------------|------------------------------|
+| **Warfarin** | Simarc, Coumadin | Fibrilasi atrium, katup jantung prostetik, DVT, emboli paru | Cek INR (target <3.5 untuk ekstraksi), risiko perdarahan tinggi |
+| **Acenocoumarol** | Sintrom | Sama dengan warfarin | Cek INR |
+| **Heparin** | - | Antikoagulan injeksi, pasien rawat inap | Biasanya pasien rawat inap, konsultasi |
+| **Rivaroxaban** | Xarelto | Antikoagulan oral baru (NOAC), fibrilasi atrium, DVT | Tidak perlu cek INR, tapi risiko perdarahan ada |
+| **Apixaban** | Eliquis | NOAC, fibrilasi atrium | Sama dengan rivaroxaban |
+| **Dabigatran** | Pradaxa | NOAC, fibrilasi atrium | Sama dengan rivaroxaban |
+| **Aspirin** | Aspilets, Cardio Aspirin, Thrombo Aspilets | Pencegahan stroke/serangan jantung, riwayat PJK | Antiplatelet, risiko perdarahan sedang |
+| **Clopidogrel** | Plavix, CPG, Platogrix | Post stent jantung, riwayat stroke | Antiplatelet, JANGAN dihentikan tanpa konsultasi kardiolog |
+| **Ticagrelor** | Brilinta | Post sindrom koroner akut | Antiplatelet poten, konsultasi |
+| **Cilostazol** | Pletaal | Penyakit arteri perifer, klaudikasio | Antiplatelet + vasodilator |
+| **Dipyridamole** | Persantin, Aggrenox | Pencegahan stroke | Antiplatelet |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kategori | Rekomendasi |
+|----------|-------------|
+| **Warfarin** | Cek INR 24-72 jam sebelum tindakan. INR ≤3.5 → bisa ekstraksi dengan hemostasis lokal |
+| **Aspirin dosis rendah** | LANJUTKAN, tidak perlu dihentikan untuk ekstraksi sederhana |
+| **Clopidogrel** | Konsultasi kardiolog, biasanya dilanjutkan |
+| **Dual antiplatelet** (Aspirin + Clopidogrel) | Konsultasi, pertimbangkan tunda jika elektif |
+| **NOAC** | Skip dosis pagi hari tindakan, atau konsultasi |
+
+#### Manajemen Perdarahan:
+
+- Jahitan yang baik
+- Gelfoam/Surgicel dalam soket
+- Asam traneksamat kumur (4.8% solution)
+- Tekan dengan kasa 30-60 menit
+
+---
+
+### B. OBAT ANTIHIPERTENSI
+
+#### Jika Pasien Mengonsumsi Obat Ini → **HIPERTENSI, Perhatikan TD & Vasokonstriktor**
+
+| Golongan | Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|----------|-----------|-------------|---------------|-----------|
+| **ACE Inhibitor** | Captopril | Capoten, Farmoten | Hipertensi, gagal jantung | Batuk kering (efek samping), interaksi minimal |
+| | Lisinopril | Zestril, Nopril | Hipertensi, post MI | Sama |
+| | Ramipril | Triatec, Cardace | Hipertensi, nefropati DM | Sama |
+| **ARB** | Valsartan | Diovan, Valesco | Hipertensi | Alternatif jika batuk dengan ACE-I |
+| | Candesartan | Blopress, Candesartan | Hipertensi, gagal jantung | Sama |
+| | Irbesartan | Aprovel, Irtan | Hipertensi, nefropati DM | Sama |
+| | Losartan | Cozaar, Losartan | Hipertensi | Sama |
+| | Telmisartan | Micardis, Telmisartan | Hipertensi | Sama |
+| **CCB** | Amlodipine | Norvasc, Norvask | Hipertensi, angina | **Hiperplasia gingiva** (efek samping) |
+| | Nifedipine | Adalat, Carvas | Hipertensi, angina | Hiperplasia gingiva, flushing |
+| | Diltiazem | Herbesser | Hipertensi, aritmia | Hiperplasia gingiva (lebih jarang) |
+| **Beta Blocker** | Bisoprolol | Concor, Maintate | Hipertensi, gagal jantung, aritmia | Bradikardia, hati-hati epinefrin berlebih |
+| | Metoprolol | Seloken, Lopresor | Hipertensi, angina, post MI | Sama |
+| | Carvedilol | Dilbloc, V-Bloc | Gagal jantung, hipertensi | Sama |
+| | Propranolol | Farmadral | Hipertensi, migrain, tremor | Non-selektif, lebih banyak interaksi |
+| **Diuretik** | Furosemide | Lasix, Farsix | Gagal jantung, edema, hipertensi | Hipokalemia, dehidrasi |
+| | HCT | HCT | Hipertensi | Hipokalemia |
+| | Spironolactone | Aldactone, Spirola | Gagal jantung, hipertensi resisten | Hiperkalemia |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **TD sebelum tindakan** | Ukur TD! Tunda jika >180/110 mmHg |
+| **Hiperplasia gingiva** | Edukasi pasien, rujuk untuk ganti obat jika parah |
+| **Beta blocker + Epinefrin** | Batasi epinefrin (max 2 cartridge), hindari injeksi intravaskular |
+| **Pasien minum obat pagi ini?** | Pastikan pasien TETAP minum obat antihipertensi |
+
+---
+
+### C. OBAT KARDIOVASKULAR LAINNYA
+
+#### Jika Pasien Mengonsumsi Obat Ini → **PENYAKIT JANTUNG**
+
+| Golongan | Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|----------|-----------|-------------|---------------|-----------|
+| **Nitrat** | ISDN | Cedocard, Farsorbid | Angina pectoris, PJK | Pasien punya angina! Siapkan ISDN sublingual |
+| | Nitroglycerin | NTG | Angina akut | Emergency drug |
+| **Digoxin** | Digoxin | Fargoxin, Lanoxin | Fibrilasi atrium, gagal jantung | Aritmia, hati-hati epinefrin |
+| **Amiodarone** | Cordarone | Cordarone | Aritmia serius | Aritmia berat, konsultasi |
+| **Statin** | Atorvastatin | Lipitor, Atorvastatin | Dislipidemia, riwayat PJK | Interaksi dengan makrolid (hindari erythromycin) |
+| | Simvastatin | Zocor, Simvastatin | Sama | Sama, interaksi lebih banyak |
+| | Rosuvastatin | Crestor | Sama | Interaksi lebih sedikit |
+
+#### ⚠️ Pertanyaan Tambahan untuk Pasien Jantung:
+
+```
+"Kapan terakhir serangan nyeri dada?"
+"Apakah bisa naik tangga 2 lantai tanpa sesak?"
+"Apakah pernah pasang ring/stent?"
+"Apakah ada alat pacu jantung?"
+```
+
+---
+
+### D. OBAT ANTIDIABETES
+
+#### Jika Pasien Mengonsumsi Obat Ini → **DIABETES MELLITUS**
+
+| Golongan | Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|----------|-----------|-------------|---------------|-----------|
+| **Biguanide** | Metformin | Glucophage, Glumin, Diabex | DM tipe 2 | Risiko infeksi meningkat, cek GDS |
+| **Sulfonilurea** | Glibenclamide | Daonil, Glyburide | DM tipe 2 | **Risiko HIPOGLIKEMIA** |
+| | Glimepiride | Amaryl, Gluvas | DM tipe 2 | Risiko hipoglikemia |
+| | Gliquidone | Glurenorm | DM tipe 2 | Sama |
+| | Gliclazide | Diamicron | DM tipe 2 | Sama |
+| **DPP-4 Inhibitor** | Sitagliptin | Januvia | DM tipe 2 | Risiko hipoglikemia rendah |
+| | Vildagliptin | Galvus | DM tipe 2 | Sama |
+| | Linagliptin | Trajenta | DM tipe 2 | Sama |
+| **SGLT-2 Inhibitor** | Dapagliflozin | Forxiga | DM tipe 2, gagal jantung | ISK, dehidrasi |
+| | Empagliflozin | Jardiance | DM tipe 2, gagal jantung | Sama |
+| **Insulin** | Berbagai jenis | Novorapid, Lantus, Levemir, Novomix, dll | DM tipe 1, DM tipe 2 lanjut | **RISIKO HIPOGLIKEMIA TINGGI**, kontrol ketat |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Cek GDS sebelum tindakan** | Ideal: 100-200 mg/dL, Tunda jika >300 atau <70 |
+| **Jadwal tindakan** | Pagi hari, setelah sarapan dan minum obat |
+| **Sulfonilurea/Insulin** | Pastikan pasien sudah makan! Siapkan glukosa |
+| **Infeksi** | Lebih agresif memberikan antibiotik |
+| **Penyembuhan luka** | Edukasi lebih lambat sembuh |
+
+#### Tanda Hipoglikemia (HARUS DIKENALI!):
+
+```
+- Keringat dingin
+- Tremor, gemetar
+- Pusing, lemas
+- Bingung, gelisah
+- Pucat
+- Palpitasi
+
+→ TINDAKAN: Berikan gula/glukosa oral segera!
+```
+
+---
+
+### E. OBAT KORTIKOSTEROID
+
+#### Jika Pasien Mengonsumsi Obat Ini → **SUPRESI ADRENAL, IMMUNOCOMPROMISED**
+
+| Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|-----------|-------------|---------------|-----------|
+| Prednisone | Prednisone | Penyakit autoimun, asma berat, alergi berat | Supresi adrenal jika >2 minggu |
+| Prednisolone | Prednisolone | Sama | Sama |
+| Methylprednisolone | Medrol, Methylprednisolone | Inflamasi akut, autoimun | Sama |
+| Dexamethasone | Dexamethasone, Kalmethasone | Inflamasi, edema serebral | Potensi tinggi, supresi adrenal |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Penggunaan >2 minggu** | Risiko insufisiensi adrenal saat stres |
+| **Prosedur minor** | Biasanya tidak perlu steroid tambahan |
+| **Prosedur mayor/stres tinggi** | Konsultasi, mungkin perlu steroid coverage |
+| **Risiko infeksi** | Meningkat, antibiotik lebih agresif |
+| **Penyembuhan luka** | Lebih lambat |
+
+---
+
+### F. OBAT OSTEOPOROSIS - BIFOSFONAT
+
+#### Jika Pasien Mengonsumsi Obat Ini → **RISIKO OSTEONECROSIS OF THE JAW (ONJ/MRONJ)**
+
+| Nama Obat | Nama Dagang | Rute | Arti Konsumsi | Risiko ONJ |
+|-----------|-------------|------|---------------|------------|
+| Alendronate | Fosamax, Osteofar | Oral | Osteoporosis | Rendah-sedang |
+| Risedronate | Actonel | Oral | Osteoporosis | Rendah-sedang |
+| Ibandronate | Bonviva | Oral/IV | Osteoporosis | Sedang |
+| Zoledronic acid | Zometa, Aclasta | IV | Osteoporosis, metastasis tulang | **TINGGI** (terutama IV untuk kanker) |
+| **Denosumab** | Prolia, Xgeva | SC | Osteoporosis, metastasis tulang | **TINGGI** |
+
+#### ⚠️ MRONJ (Medication-Related Osteonecrosis of the Jaw):
+
+**Definisi:** Tulang rahang yang terekspos/nekrotik >8 minggu pada pasien dengan riwayat bifosfonat/denosumab tanpa riwayat radiasi.
+
+| Pertanyaan Penting | Alasan |
+|-------------------|--------|
+| "Sudah berapa lama minum obat ini?" | Risiko meningkat setelah >3-4 tahun |
+| "Apakah untuk osteoporosis atau kanker?" | IV untuk kanker = risiko jauh lebih tinggi |
+| "Apakah pernah ada masalah rahang?" | Riwayat ONJ sebelumnya |
+
+#### Manajemen:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Bifosfonat oral <4 tahun, tanpa faktor risiko** | Bisa ekstraksi dengan informed consent |
+| **Bifosfonat oral >4 tahun atau ada faktor risiko** | Konsultasi, drug holiday kontroversial |
+| **Bifosfonat IV untuk kanker** | **HINDARI ekstraksi jika memungkinkan**, konsultasi wajib |
+| **Denosumab** | Sama dengan bifosfonat IV |
+
+**Pencegahan ONJ:**
+- Eliminasi fokus infeksi SEBELUM mulai terapi bifosfonat
+- Antibiotik profilaksis
+- Teknik atraumatik
+- Primary closure
+- Follow-up ketat
+
+---
+
+### G. OBAT PSIKIATRI & NEUROLOGI
+
+#### Jika Pasien Mengonsumsi Obat Ini → **GANGGUAN JIWA/NEUROLOGI**
+
+| Golongan | Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|----------|-----------|-------------|---------------|-----------|
+| **Antidepresan SSRI** | Sertraline | Zoloft, Fridep | Depresi, cemas | Risiko perdarahan meningkat (antiplatelet-like) |
+| | Fluoxetine | Prozac, Kalxetin | Depresi | Sama, interaksi banyak |
+| | Escitalopram | Cipralex, Lexapro | Depresi, cemas | Sama |
+| | Paroxetine | Seroxat | Depresi, cemas | Sama |
+| **Antidepresan TCA** | Amitriptyline | Amitriptyline | Depresi, nyeri neuropatik | Mulut kering, interaksi epinefrin |
+| **Antipsikotik** | Risperidone | Risperdal | Skizofrenia, bipolar | Mulut kering, tardive dyskinesia |
+| | Haloperidol | Haldol, Serenace | Skizofrenia, agitasi | Sama |
+| | Olanzapine | Zyprexa | Skizofrenia, bipolar | Sama |
+| | Quetiapine | Seroquel | Skizofrenia, bipolar | Sama |
+| **Antikonvulsan** | Phenytoin | Dilantin | Epilepsi | **HIPERPLASIA GINGIVA** |
+| | Carbamazepine | Tegretol | Epilepsi, nyeri trigeminal | Interaksi obat banyak |
+| | Valproic acid | Depakote, Depakene | Epilepsi, bipolar | Risiko perdarahan |
+| | Levetiracetam | Keppra | Epilepsi | Interaksi minimal |
+| | Gabapentin | Neurontin | Epilepsi, nyeri neuropatik | Aman |
+| **Antiparkinson** | Levodopa | Madopar, Sinemet | Parkinson | Hipotensi ortostatik |
+| **Benzodiazepin** | Alprazolam | Xanax | Cemas | Depresi SSP, hati-hati sedasi |
+| | Diazepam | Valium | Cemas, spasme otot | Sama |
+| | Lorazepam | Ativan | Cemas | Sama |
+| **Lithium** | Lithium | Frimania | Bipolar | Interaksi NSAID, dehidrasi |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Phenytoin** | Edukasi hiperplasia gingiva, oral hygiene ketat |
+| **SSRI** | Waspada perdarahan, manajemen hemostasis |
+| **TCA + Epinefrin** | Batasi epinefrin, hindari jika memungkinkan |
+| **Lithium + NSAID** | **HINDARI NSAID** → toksisitas lithium |
+| **Benzodiazepin** | Jangan tambah sedasi |
+| **Pasien psikiatri** | Komunikasi baik, informed consent, pertimbangkan anxiolytic |
+
+---
+
+### H. OBAT ASMA & PARU
+
+#### Jika Pasien Mengonsumsi Obat Ini → **ASMA/PPOK**
+
+| Golongan | Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|----------|-----------|-------------|---------------|-----------|
+| **Beta-2 Agonis (SABA)** | Salbutamol | Ventolin | Asma (reliever) | Pastikan bawa inhaler, bisa memicu takikardi |
+| **Beta-2 Agonis (LABA)** | Formoterol | Foradil | Asma/PPOK | Controller |
+| | Salmeterol | Seretide (kombinasi) | Asma/PPOK | Controller |
+| **Kortikosteroid Inhalasi** | Budesonide | Pulmicort | Asma | Oral candidiasis (kumur setelah pakai) |
+| | Fluticasone | Flixotide | Asma | Sama |
+| **Kombinasi** | Budesonide/Formoterol | Symbicort | Asma/PPOK | Controller |
+| | Fluticasone/Salmeterol | Seretide | Asma/PPOK | Controller |
+| **Antikolinergik** | Tiotropium | Spiriva | PPOK | Mulut kering |
+| | Ipratropium | Atrovent | PPOK | Sama |
+| **Teofilin** | Theophylline | Bronsolvan | Asma/PPOK | Interaksi makrolid (hindari erythromycin) |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Sebelum tindakan** | "Apakah bawa inhaler?" |
+| **Asma tidak terkontrol** | Tunda prosedur elektif |
+| **Serangan asma di klinik** | Berikan salbutamol inhaler, posisi duduk |
+| **Hindari** | NSAID (10% asma sensitif), aspirin, stress |
+| **Steroid inhalasi kronik** | Oral candidiasis, periksa mukosa |
+
+---
+
+### I. OBAT IMUNOSUPRESAN
+
+#### Jika Pasien Mengonsumsi Obat Ini → **IMMUNOCOMPROMISED**
+
+| Nama Obat | Nama Dagang | Arti Konsumsi | Implikasi |
+|-----------|-------------|---------------|-----------|
+| Methotrexate | MTX, Rheumatrex | Rheumatoid arthritis, psoriasis, kanker | Imunosupresi, stomatitis, konsultasi |
+| Azathioprine | Imuran | Transplant, autoimun | Imunosupresi berat |
+| Cyclosporine | Sandimmun | Transplant | **HIPERPLASIA GINGIVA**, imunosupresi |
+| Tacrolimus | Prograf | Transplant | Imunosupresi |
+| Mycophenolate | Cellcept | Transplant | Imunosupresi |
+| **Biologics** | | | |
+| Infliximab | Remicade | RA, Crohn's, psoriasis | Imunosupresi, risiko infeksi tinggi |
+| Adalimumab | Humira | RA, Crohn's | Sama |
+| Rituximab | Rituxan | Limfoma, RA | Sama |
+| Tocilizumab | Actemra | RA | Sama |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Kondisi | Tindakan |
+|---------|----------|
+| **Semua imunosupresan** | Konsultasi dengan dokter yang merawat |
+| **Risiko infeksi** | Antibiotik profilaksis dipertimbangkan |
+| **Cyclosporine** | Hiperplasia gingiva, oral hygiene |
+| **Methotrexate** | Cek darah lengkap, stomatitis |
+| **Pasien transplantasi** | Profilaksis antibiotik wajib |
+
+---
+
+### J. OBAT ANTIRETROVIRAL (HIV)
+
+#### Jika Pasien Mengonsumsi Obat Ini → **HIV/AIDS**
+
+| Nama Obat | Nama Dagang | Implikasi |
+|-----------|-------------|-----------|
+| Tenofovir/Lamivudine/Efavirenz | TLE | Kombinasi first-line Indonesia |
+| Tenofovir/Lamivudine/Dolutegravir | TLD | Kombinasi yang lebih baru |
+| Zidovudine (AZT) | Retrovir | Anemia, neutropenia |
+| Lopinavir/Ritonavir | Aluvia, Kaletra | Interaksi obat banyak |
+
+#### ⚠️ Tindakan yang Diperlukan:
+
+| Aspek | Tindakan |
+|-------|----------|
+| **Universal precaution** | WAJIB untuk semua pasien |
+| **Cek CD4 dan viral load** | Jika CD4 <200 → risiko infeksi tinggi |
+| **Interaksi obat** | Banyak, terutama dengan protease inhibitor |
+| **Oral manifestation** | Kandidiasis, hairy leukoplakia, Kaposi sarcoma |
+| **Stigma** | Perlakukan dengan hormat dan profesional |
+
+---
+
+## 5.3 Tabel Ringkasan Obat dan Implikasi
+
+| Obat yang Dikonsumsi | Artinya Pasien Memiliki | Waspada | Tindakan |
+|---------------------|------------------------|---------|----------|
+| Warfarin, NOAC | Gangguan jantung/pembekuan | Perdarahan | Cek INR, hemostasis |
+| Aspirin, Clopidogrel | Riwayat PJK/Stroke | Perdarahan | Lanjutkan, hemostasis lokal |
+| Antihipertensi | Hipertensi | TD tinggi, interaksi | Cek TD, batasi epinefrin |
+| Amlodipine, Phenytoin, Cyclosporine | - | Hiperplasia gingiva | Oral hygiene, edukasi |
+| Metformin, Insulin | Diabetes | Hipoglikemia, infeksi | Cek GDS, jadwal pagi |
+| Sulfonilurea | Diabetes | **HIPOGLIKEMIA** | Pastikan sudah makan |
+| Kortikosteroid | Autoimun, alergi | Insufisiensi adrenal | Stress protocol jika perlu |
+| Bifosfonat, Denosumab | Osteoporosis/Kanker | **ONJ/MRONJ** | Konsultasi, hati-hati ekstraksi |
+| SSRI | Depresi | Perdarahan | Hemostasis |
+| Phenytoin | Epilepsi | Hiperplasia gingiva | Oral hygiene |
+| Lithium | Bipolar | Toksisitas | **HINDARI NSAID** |
+| Inhaler | Asma/PPOK | Serangan asma | Bawa inhaler, hindari NSAID |
+| Imunosupresan | Transplant/Autoimun | Infeksi | Profilaksis, konsultasi |
+| ARV | HIV | Infeksi oportunistik | Universal precaution, cek CD4 |
+
+---
+
+## 5.4 Checklist Anamnesa Obat
+
+```
+CHECKLIST ANAMNESA OBAT:
+
+☐ "Apakah rutin minum obat?"
+☐ "Obat apa saja?" (catat semua)
+☐ "Untuk penyakit apa?"
+☐ "Sudah berapa lama?"
+☐ "Apakah ada obat pengencer darah?" (Warfarin, Aspirin, Clopidogrel)
+☐ "Apakah ada obat untuk jantung?"
+☐ "Apakah ada obat untuk darah tinggi?"
+☐ "Apakah ada obat untuk kencing manis?"
+☐ "Apakah ada obat untuk tulang keropos?" (Bifosfonat)
+☐ "Apakah sedang kemoterapi atau minum obat penekan imun?"
+☐ "Apakah ada obat yang diminum hari ini?"
+☐ "Apakah ada alergi obat?"
+```
+
+---
+
+## 5.5 Kapan Harus Konsultasi/Rujuk?
+
+| Kondisi | Tindakan |
+|---------|----------|
+| INR >3.5 | Konsultasi kardiolog untuk penyesuaian |
+| TD >180/110 mmHg | Tunda, rujuk ke dokter |
+| GDS >300 mg/dL | Tunda, rujuk ke dokter |
+| Bifosfonat IV untuk kanker | Konsultasi onkolog |
+| Pasien transplantasi | Konsultasi dokter yang merawat |
+| CD4 <200 pada HIV | Konsultasi internist |
+| Pasien dengan >5 obat rutin | Pertimbangkan konsultasi |
+| Ragu-ragu | Lebih baik konsultasi! |
+
+---
+
+**Ingat:** *"When in doubt, refer out"* - Jika ragu, lebih baik konsultasi!
+
+---
+
 # LAMPIRAN
 
 ## Daftar Singkatan
@@ -1744,6 +2154,28 @@ Pasien dengan kondisi jantung berisiko tinggi:
 | Singkatan | Kepanjangan |
 |-----------|-------------|
 | ASA | Anterior Superior Alveolar |
+| ARV | Antiretroviral |
+| CCB | Calcium Channel Blocker |
+| DM | Diabetes Mellitus |
+| DVT | Deep Vein Thrombosis |
+| GDS | Gula Darah Sewaktu |
+| GP | Greater Palatine |
+| IANB | Inferior Alveolar Nerve Block |
+| INR | International Normalized Ratio |
+| MI | Myocardial Infarction |
+| MRONJ | Medication-Related Osteonecrosis of the Jaw |
+| MSA | Middle Superior Alveolar |
+| NOAC | Novel Oral Anticoagulant |
+| ONJ | Osteonecrosis of the Jaw |
+| PBP | Penicillin Binding Protein |
+| PDL | Periodontal Ligament |
+| PJK | Penyakit Jantung Koroner |
+| PPOK | Penyakit Paru Obstruktif Kronik |
+| PSA | Posterior Superior Alveolar |
+| SSRI | Selective Serotonin Reuptake Inhibitor |
+| TD | Tekanan Darah |
+| TCA | Tricyclic Antidepressant |
+| ANUG | Acute Necrotizing Ulcerative Gingivitis |
 | GDS | Gula Darah Sewaktu |
 | GP | Greater Palatine |
 | IANB | Inferior Alveolar Nerve Block |
